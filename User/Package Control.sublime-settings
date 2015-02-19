@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Color Highlighter",
+		"Csslisible",
+		"Emmet",
+		"FindKeyConflicts",
+		"Git",
+		"Goto-CSS-Declaration",
+		"HTMLBeautify",
+		"jQuery",
+		"JsFormat",
+		"Minifier",
+		"Open-Include",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"Tomorrow Color Schemes",
+		"WhoCalled Function Finder"
+	]
+}

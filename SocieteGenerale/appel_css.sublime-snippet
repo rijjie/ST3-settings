@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+<script type="text/javascript">
+	var c_link = document.createElement('link'); 
+	/*
+	c_link.setAttribute("href","https://static.societegenerale.fr/pri/PRI/Repertoire_par_type_de_contenus/Type_de_contenu/TOTO/css/${1:n2g_code_securite_avril_2013}.css");
+	*/
+	c_link.setAttribute("href","./css/${1:n2g_code_securite_avril_2013}.css"); 
+	c_link.setAttribute("rel","stylesheet"); c_link.setAttribute("type","text/css"); document.getElementsByTagName("head").item(0).appendChild(c_link);
+</script>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sgcss</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
