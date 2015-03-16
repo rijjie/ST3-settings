@@ -1,0 +1,42 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<!--[if lte IE 7]> <html class="ie67 ie678" lang="fr"> <![endif]-->
+<!--[if IE 8]> <html class="ie8 ie678" lang="fr"> <![endif]-->
+<!--[if IE 9]> <html class="ie9" lang="fr"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="fr"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<link rel="stylesheet" href="styles.css" media="all">
+</head>
+<body>
+	<div class="skip-links">
+		<a href="#navigation">Aller au menu</a>
+		<a href="#main">Aller au contenu</a>
+		<a href="#search">Aller à la recherche</a>
+	</div>
+	<header id="header" role="banner">
+	</header> <!-- header -->
+	<nav id="navigation" role="navigation">
+		<ul>
+			<li><a href="#">Salade</a></li>
+			<li><a href="#">Tomate</a></li>
+			<li><a href="#">Oignons</a></li>
+		</ul>
+	</nav> <!-- navigation -->
+	<div id="main" role="main">
+		$0
+	</div> <!-- main -->
+	<aside class="aside" role="complementary">
+	</aside> <!-- aside -->
+	<footer id="footer" role="contentinfo">
+	</footer> <!-- footer -->
+</body>
+</html>
+]]></content>
+	<tabTrigger>doctype</tabTrigger> 
+	<scope>text.html</scope>
+</snippet>

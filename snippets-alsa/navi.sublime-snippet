@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<nav role="navigation" id="navigation">
+	<ul>
+		<li><a href="#">$0</a></li>
+		<li><a href="#">$0</a></li>
+		<li><a href="#">$0</a></li>
+		<li><a href="#">$0</a></li>
+		<li><a href="#">$0</a></li>
+	</ul>
+</nav>
+]]></content>
+	<tabTrigger>navi</tabTrigger>
+	<scope>text.html</scope> 
+</snippet>
