@@ -1,0 +1,177 @@
+Package Control Messages
+========================
+
+Predawn:
+-------
+
+
+  Welcome to...
+
+   ______   ______     ______     _____     ______     __     __     __   __
+  /\  == \ /\  == \   /\  ___\   /\  __-.  /\  __ \   /\ \  _ \ \   /\ "-.\ \
+  \ \  _-/ \ \  __<   \ \  __\   \ \ \/\ \ \ \  __ \  \ \ \/ ".\ \  \ \ \-.  \
+   \ \_\    \ \_\ \_\  \ \_____\  \ \____-  \ \_\ \_\  \ \__/".~\_\  \ \_\\"\_\
+    \/_/     \/_/ /_/   \/_____/   \/____/   \/_/\/_/   \/_/   \/_/   \/_/ \/_/
+
+
+  To activate the theme, add or replace your current theme settings with the code below.
+
+  {
+    "theme": "predawn.sublime-theme",
+    "color_scheme": "Packages/Predawn/predawn.tmTheme"
+  }
+
+  FOR ALL DEV BUILDS 3062+ use,
+
+  {
+      "theme": "predawn-DEV.sublime-theme"
+  }
+
+
+  *** IMPORTANT - MAKE SURE TO RESTART SUBLIME AFTER INSTALLING AND ACTIVATING PREDAWN ***
+
+
+  ======================================
+
+  Also, some other settings that I like:
+
+  =====================================+
+
+  // Typography
+
+    "font_face": "Source Code Pro",
+    "font_size": 14,
+    "font_options": ["no_round"],
+    "highlight_line": true,
+    "caret_extra_width": 1,
+    "caret_style": "phase",
+    "word_wrap": false,
+
+  // Whitespace, Matching, Copy & Auto-Complete
+
+    "copy_with_empty_selection": false,
+    "drag_text": false,
+    "match_brackets_content": false,
+    "match_selection": false,
+    "match_tagbs": false,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+
+  // Interface & Behavior
+
+    "sidebar_default": true, // Replace default with xsmall, small, medium, large or xlarge
+    "close_windows_when_empty": false,
+    "draw_minimap_border": true,
+    "enable_tab_scrolling": false,
+    "overlay_scroll_bars": "enabled",
+    "open_files_in_new_window": false,
+    "preview_on_click": false,
+    "scroll_past_end": true,
+    "scroll_speed": 5.0,
+    "show_full_path": false,
+
+
+Emmet:
+-----
+
+  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message).
+
+  ******************************
+  Please restart editor
+  to finish installation process
+  after PyV8 was downloaded.
+  ******************************
+
+  Tab key handler
+  ==========================
+
+  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.
+
+  Please read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.
+
+  Enter key
+  ==========================
+
+  In HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).
+
+  To disable Enter key handler, simply add the following option in your user's Preferences file:
+
+  "disable_formatted_linebreak": true
+
+  Actions shortcuts
+  ==========================
+
+  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:
+  https://github.com/sergeche/emmet-sublime
+
+  Documentation and examples:
+  http://emmet.io
+
+  ------------------------------
+  Follow me on Twitter: @emmetio
+  ------------------------------
+
+
+
+Open-Include:
+------------
+
+  This plugin will try to open Sublime Text file paths found on
+  selections/cursor when pressing "ALT+D". Supports files with the same
+  extension by default but can be configured via settings to work with special
+  file naming conventions (like scss includes). See below.
+
+  Strings starting with http:// or https:// will open with default browser if
+  binary, or we will read the file with urllib and open the result in a new
+  view. By setting the `open_http_in_browser` setting in your user preferences
+  to `true`, we will *always* open the default browser.
+
+  `use_strict` preference will control if the path should be complete and
+  correct, if not the file will not open and the package will not attempt to
+  find the file.
+
+  `auto_extension` preference can be used to specify special file naming
+  conventions (like scss includes).
+
+  If you have any bugs or feature requests, go here:
+  https://github.com/titoBouzout/Open-Include/issues
+
+  If you want to contribute to the project, go here:
+  https://github.com/titoBouzout/Open-Include
+
+
+
+SublimeLinter-html-tidy:
+-----------------------
+
+  SublimeLinter-html-tidy
+  -------------------------------
+  This linter plugin for SublimeLinter provides an interface to tidy.
+
+  ** IMPORTANT! **
+
+  Before this plugin will activate, you *must*
+  follow the installation instructions here:
+
+  https://github.com/SublimeLinter/SublimeLinter-html-tidy
+
+
+
+FindKeyConflicts:
+----------------
+
+  Thank you for installing the FindKeyConflicts plugin.
+
+  For more information please review the README or visit https://github.com/skuroda/FindKeyConflicts.
+
+  If you have any questions, comments, or run into issues, please let me know! Hope you enjoy the plugin.
+
+  Thank you!
+
+
+WhoCalled Function Finder:
+-------------------------
+
+  Ver 1.0.0
+
+  First release!
