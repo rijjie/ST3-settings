@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+html {
+	font-size: 62.5%;
+}
+body {
+	background-color: #fff;
+	color: #000;
+	font-family: "Century Gothic", helvetica, arial, sans-serif;
+	font-size: 1.4em;
+	line-height: 1.5;
+}
+p, ul, ol, dl, blockquote, pre, td, th, label, textarea, caption {
+	font-size: 1em; /* equiv 14px */
+	line-height: 1.5em;
+	margin: 1.5em 0;
+}
+p {color: #fff; padding: 10px; margin: 0; background: hotpink}
+p+p {background: orange}
+p+p+p {background: maroon}
+]]></content>
+	<tabTrigger>resetmini</tabTrigger> 
+</snippet>

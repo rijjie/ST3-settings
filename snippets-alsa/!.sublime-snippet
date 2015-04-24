@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+![alt](/path/$0 "title")
+]]></content>
+	<tabTrigger>!</tabTrigger>
+	<scope>text.html.markdown</scope> 
+</snippet>

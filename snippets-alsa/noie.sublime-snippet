@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<!--[if !IE]><!-->
+	$0
+<!--<![endif]-->
+]]></content>
+	<tabTrigger>noie</tabTrigger> 
+</snippet>

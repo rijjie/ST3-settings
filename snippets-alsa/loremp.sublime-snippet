@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<p>Lorem Elsass ipsum réchime amet non Choucroute knack  tchao bissame hopla. Wotch a kofee avec ton BibalaekaesSalat et ta wurscht ?</p>
+<p>Yeuh non che suis au réchime, je ne mange plus que des Grumbeere light et che fais de la chym avec Chulien. Tiens, un Picon sur le comptoir.</p>
+<p>Allez tchao bissame !</p>
+]]></content>
+	<tabTrigger>loremp</tabTrigger>
+	<scope>text.html</scope>
+</snippet>
