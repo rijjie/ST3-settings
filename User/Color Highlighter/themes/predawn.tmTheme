@@ -1,11 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<!--
+
+COLOR KEY
+
+#cf5340 - Red
+#f18260 - Predawn Orange
+#f49d62 - Orange
+#ecec89 - Yellow
+#92bfbf - Blue
+#bddcdc - Light Blue
+#b4d388 - Green
+
+#151515 - Black
+#232323 - Grey 9
+#252525 - Grey 8
+#282828 - Grey 7
+#3c3c3c - Grey 6
+#4c4c4c - Grey 5
+#777777 - Grey 4
+#999999 - Grey 3
+#dddddd - Grey 2
+#f1f1f1 - Grey 1
+
+-->
+
 <plist version="1.0">
 <dict>
 	<key>name</key>
 	<string>Predawn</string>
 	<key>settings</key>
 	<array>
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_1071C7FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#1071C7FF</string>
+<key>caret</key>
+<string>#3798EFFF</string>
+<key>foreground</key>
+<string>#3798EFFF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_FFFFFFFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#FFFFFFFF</string>
+<key>caret</key>
+<string>#000000FF</string>
+<key>foreground</key>
+<string>#000000FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_C80702FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#C80702FF</string>
+<key>caret</key>
+<string>#FC3C37FF</string>
+<key>foreground</key>
+<string>#FC3C37FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_7B7B7BFF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#7B7B7BFF</string>
+<key>caret</key>
+<string>#262626FF</string>
+<key>foreground</key>
+<string>#262626FF</string>
+</dict>
+</dict>
+
+
+<dict>
+<key>name</key>
+<string>mon_color</string>
+<key>scope</key>
+<string>mcol_FCF7E5FF</string>
+<key>settings</key>
+<dict>
+<key>background</key>
+<string>#FCF7E5FF</string>
+<key>caret</key>
+<string>#1A1502FF</string>
+<key>foreground</key>
+<string>#1A1502FF</string>
+</dict>
+</dict>
+
+
 		<dict>
 			<key>settings</key>
 			<dict>
@@ -246,7 +357,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>C/C++ Preprocessor Line</string>
+			<string>C&#x2f;C++ Preprocessor Line</string>
 			<key>scope</key>
 			<string>other.preprocessor.c</string>
 			<key>settings</key>
@@ -257,7 +368,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>C/C++ Preprocessor Directive</string>
+			<string>C&#x2f;C++ Preprocessor Directive</string>
 			<key>scope</key>
 			<string>other.preprocessor.c entity</string>
 			<key>settings</key>
@@ -749,7 +860,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Doctype/XML Processing</string>
+			<string>Doctype&#x2f;XML Processing</string>
 			<key>scope</key>
 			<string>meta.tag.sgml.doctype.xml, declaration.sgml.html declaration.doctype, declaration.sgml.html declaration.doctype entity, declaration.sgml.html declaration.doctype string, declaration.xml-processing, declaration.xml-processing entity, declaration.xml-processing string, doctype</string>
 			<key>settings</key>
@@ -813,36 +924,6 @@
 				<string>#BDDCDC</string>
 			</dict>
 		</dict>
-	<dict>
-            <key>name</key>
-            <string>SublimeLinter Warning</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#DDB700</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
-            <string>SublimeLinter Gutter Mark</string>
-            <key>scope</key>
-            <string>sublimelinter.gutter-mark</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#FFFFFF</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
-            <string>SublimeLinter Error</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.error</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#D02000</string>
-            </dict>
-        </dict></array>
+	</array>
 </dict>
 </plist>
