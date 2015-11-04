@@ -1,6 +1,6 @@
 {
 	"caret_extra_width": 1,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
@@ -12,6 +12,7 @@
 	"highlight_line": false,
 	"ignored_packages":
 	[
+		"snippets-alsa",
 		"Vintage"
 	],
 	"scroll_speed": 5.0,

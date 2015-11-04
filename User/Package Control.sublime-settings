@@ -5,12 +5,12 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"Color Highlighter",
 		"Csslisible",
 		"Emmet",
 		"FindKeyConflicts",
-		"Git",
 		"Goto-CSS-Declaration",
 		"HTMLBeautify",
 		"jQuery",
@@ -22,12 +22,13 @@
 		"Package Control",
 		"Predawn",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
+		"SmartMarkdown",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"Tomorrow Color Schemes",
+		"Unicode Character Highlighter",
 		"WhoCalled Function Finder"
 	]
 }
