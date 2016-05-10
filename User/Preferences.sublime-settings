@@ -2,17 +2,20 @@
 	"caret_extra_width": 1,
 	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
 	"copy_with_empty_selection": false,
+	"default_encoding": "UTF-8 with BOM",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"no_round"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"highlight_line": false,
 	"ignored_packages":
 	[
+		"JsFormat",
 		"snippets-alsa",
+		"SublimeLinter-jshint",
 		"Vintage"
 	],
 	"scroll_speed": 5.0,
