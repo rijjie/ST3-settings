@@ -3,17 +3,15 @@
 	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
 	"copy_with_empty_selection": true,
 	"default_encoding": "UTF-8 with BOM",
-	"ensure_newline_at_eof_on_save": true,
+  "enable_tab_scrolling": false,
+  "ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
-	"font_options":
-	[
-		"no_round"
-	],
 	"font_size": 10,
-	"highlight_line": true,
+	"highlight_line": false,
 	"ignored_packages":
 	[
 		"EditorConfig",
+		"Emmet",
 		"snippets-alsa",
 		"SublimeLinter-jshint",
 		"Sublimerge 3",
@@ -22,7 +20,6 @@
 	],
 	"scroll_speed": 5.0,
 	"show_encoding": true,
-	"show_full_path": false,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
