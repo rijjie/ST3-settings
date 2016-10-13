@@ -1,28 +1,28 @@
 {
-  "caret_extra_width": 1,
-  "color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
-  "copy_with_empty_selection": true,
-  "default_encoding": "UTF-8 with BOM",
-  "enable_tab_scrolling": false,
-  "ensure_newline_at_eof_on_save": true,
-  "font_face": "Source Code Pro",
-  "font_size": 10,
-  "highlight_line": false,
-  "ignored_packages":
-  [
-    "Emmet",
-    "SideBarEnhancements",
-    "SublimeLinter-jshint",
-    "Sublimerge 3",
-    "Vintage",
-    "WhoCalled Function Finder"
-  ],
-  "scroll_speed": 5.0,
-  "show_encoding": true,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true,
-  "use_tab_stops": true,
-  "word_wrap": true
+	"caret_extra_width": 1,
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
+	"copy_with_empty_selection": true,
+	"default_encoding": "UTF-8 with BOM",
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Source Code Pro",
+	"font_size": 10,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+		"Emmet",
+		"SideBarEnhancements",
+		"SublimeLinter-contrib-standard",
+		"SublimeLinter-jshint",
+		"Sublimerge 3",
+		"Vintage",
+		"WhoCalled Function Finder"
+	],
+	"scroll_speed": 5.0,
+	"show_encoding": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": true
 }
-
