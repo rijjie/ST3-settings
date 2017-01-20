@@ -10,11 +10,12 @@
 	"highlight_line": false,
 	"ignored_packages":
 	[
+		"Clojure",
 		"Emmet",
+		"Hover Image Preview",
 		"SideBarEnhancements",
 		"SublimeLinter-contrib-standard",
 		"SublimeLinter-jshint",
-		"Sublimerge 3",
 		"Vintage",
 		"WhoCalled Function Finder"
 	],
