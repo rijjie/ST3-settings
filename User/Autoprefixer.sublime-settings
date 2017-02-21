@@ -1,0 +1,6 @@
+{
+  "browsers": ["last 5 versions", "> 10%", "Firefox > 20", "ie >= 7"],
+  "cascade": true,
+  "remove": true,
+  "prefixOnSave": false
+}
