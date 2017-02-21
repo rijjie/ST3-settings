@@ -7,8 +7,10 @@
 	[
 		"AdvancedNewFile",
 		"Alignment",
+		"Autoprefixer",
 		"Clickable URLs",
 		"Color Highlighter",
+		"CSScomb",
 		"Csslisible",
 		"Emmet",
 		"FindKeyConflicts",
