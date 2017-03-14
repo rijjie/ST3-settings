@@ -1,4 +1,4 @@
-﻿{
+{
 	"bootstrapped": true,
 	"in_process_packages":
 	[
@@ -11,11 +11,11 @@
 		"Clickable URLs",
 		"Color Highlighter",
 		"CSScomb",
+		"Csslisible",
 		"Emmet",
 		"FindKeyConflicts",
 		"GitGutter",
 		"Goto-CSS-Declaration",
-		"Hover Image Preview",
 		"HTMLBeautify",
 		"jQuery",
 		"MarkdownLight",
