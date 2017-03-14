@@ -1,4 +1,4 @@
-{
+﻿{
   "config": {
     "always-semicolon": true,
     "color-case": "lower",
@@ -17,6 +17,7 @@
     "space-before-opening-brace": " ",
     "space-after-opening-brace": "\n",
     "space-before-selector-delimiter": "",
+    "space-after-selector-delimiter": 1,
     "space-before-closing-brace": "\n",
     "strip-spaces": true,
     "tab-size": true,
