@@ -1,4 +1,4 @@
-﻿{
+{
 	"caret_extra_width": 1,
 	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
 	"copy_with_empty_selection": true,
@@ -10,7 +10,9 @@
 	"highlight_line": false,
 	"ignored_packages":
 	[
+		"Clojure",
 		"Emmet",
+		"Jade",
 		"Predawn",
 		"SideBarEnhancements",
 		"SublimeLinter-contrib-standard",
