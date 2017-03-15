@@ -1,3 +1,22 @@
 [
-  { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
+  { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+  { "keys": ["ctrl+alt+enter"], "command": "open_url_under_cursor" },
+  {
+        "keys": [
+            "ctrl+alt+g"
+        ],
+        "command": "expand_as_you_type",
+        "context": [
+            {
+                "operand": false,
+                "operator": "equal",
+                "match_all": true,
+                "key": "setting.is_widget"
+            },
+            {
+                "match_all": true,
+                "key": "emmet_action_enabled.expand_as_you_type"
+            }
+        ]
+    },
 ]
