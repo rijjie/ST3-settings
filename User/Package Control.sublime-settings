@@ -25,6 +25,7 @@
 		"SideBarEnhancements",
 		"StandardFormat",
 		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-contrib-standard",
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
